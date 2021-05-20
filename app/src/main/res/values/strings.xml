@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="feel">Real Feel</string>
+    <string name="humidity">Humidity</string>
+    <string name="rain">Chance of Rain</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind Speed</string>
+    <string name="uv_index">UVI</string>
+</resources>
