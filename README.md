@@ -18,6 +18,8 @@ Now Below are my App Screen Shots.
 
 
 --- Some Extra Details ---
+
+
   Few Strings were constant so i added them in strings.xml file
   As Primary color was white, so i used @color/white
   Few Transparent/low Opacity backgrounds are created and used - created as filename.xml in drawables
