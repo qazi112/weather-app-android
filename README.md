@@ -1,4 +1,4 @@
-# weather-app-android
+# Weather App (qazi)
 
 I have tried to make almost replica of Xioami MI 11 Lite weather app UI.
 
